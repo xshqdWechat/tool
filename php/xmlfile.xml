@@ -1,0 +1,1401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<item>
+<version>1</version>
+<key>General 通用字段</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>jan</key>
+<string>Jan</string>
+</item>
+<item>
+<version>1</version>
+<key>feb</key>
+<string>Feb</string>
+</item>
+<item>
+<version>1</version>
+<key>mar</key>
+<string>Mar</string>
+</item>
+<item>
+<version>1</version>
+<key>apr</key>
+<string>Apr</string>
+</item>
+<item>
+<version>1</version>
+<key>may</key>
+<string>May</string>
+</item>
+<item>
+<version>1</version>
+<key>jun</key>
+<string>Jun</string>
+</item>
+<item>
+<version>1</version>
+<key>jul</key>
+<string>Jul</string>
+</item>
+<item>
+<version>1</version>
+<key>aug</key>
+<string>Aug</string>
+</item>
+<item>
+<version>1</version>
+<key>sep</key>
+<string>Sep</string>
+</item>
+<item>
+<version>1</version>
+<key>oct</key>
+<string>Oct</string>
+</item>
+<item>
+<version>1</version>
+<key>nov</key>
+<string>Nov</string>
+</item>
+<item>
+<version>1</version>
+<key>dec</key>
+<string>Dec</string>
+</item>
+<item>
+<version>1</version>
+<key>day</key>
+<string>Day</string>
+</item>
+<item>
+<version>1</version>
+<key>week</key>
+<string>Week</string>
+</item>
+<item>
+<version>1</version>
+<key>month</key>
+<string>Month</string>
+</item>
+<item>
+<version>1</version>
+<key>year</key>
+<string>Year</string>
+</item>
+<item>
+<version>1</version>
+<key>unbind</key>
+<string>disconnected</string>
+</item>
+<item>
+<version>1</version>
+<key>userAdd</key>
+<string>User Profile</string>
+</item>
+<item>
+<version>1</version>
+<key>photoAlbum</key>
+<string>Photo Album</string>
+</item>
+<item>
+<version>1</version>
+<key>takingPictures</key>
+<string>Take Picture</string>
+</item>
+<item>
+<version>1</version>
+<key>gender</key>
+<string>Gender</string>
+</item>
+<item>
+<version>1</version>
+<key>male</key>
+<string>Male</string>
+</item>
+<item>
+<version>1</version>
+<key>female</key>
+<string>Female</string>
+</item>
+<item>
+<version>1</version>
+<key>userName</key>
+<string>Name</string>
+</item>
+<item>
+<version>1</version>
+<key>birthday</key>
+<string>Date of Birth</string>
+</item>
+<item>
+<version>1</version>
+<key>height</key>
+<string>Height</string>
+</item>
+<item>
+<version>1</version>
+<key>targetWeight</key>
+<string>Target Weight</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode</key>
+<string>Activity Levels</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode1</key>
+<string>Sedentary</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode2</key>
+<string>Light activity</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode3</key>
+<string>Moderate activity</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode4</key>
+<string>Very active</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode5</key>
+<string>Extremely active</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode1Detail</key>
+<string>little or no exercise</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode2Detail</key>
+<string>non-physical work</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode3Detail</key>
+<string>always standing or walking</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode4Detail</key>
+<string>manual or physical work</string>
+</item>
+<item>
+<version>1</version>
+<key>sportMode5Detail</key>
+<string>athletes</string>
+</item>
+<item>
+<version>1</version>
+<key>userDelete</key>
+<string>Delete</string>
+</item>
+<item>
+<version>1</version>
+<key>next</key>
+<string>Next</string>
+</item>
+<item>
+<version>1</version>
+<key>cancel</key>
+<string>Cancel</string>
+</item>
+<item>
+<version>1</version>
+<key>confirm</key>
+<string>Done</string>
+</item>
+<item>
+<version>1</version>
+<key>close</key>
+<string>Close</string>
+</item>
+<item>
+<version>1</version>
+<key>start</key>
+<string>Start</string>
+</item>
+<item>
+<version>1</version>
+<key>searchScale</key>
+<string>Searching Scale</string>
+</item>
+<item>
+<version>1</version>
+<key>bleList</key>
+<string>Scale Found</string>
+</item>
+<item>
+<version>1</version>
+<key>skip</key>
+<string>Skip</string>
+</item>
+<item>
+<version>1</version>
+<key>myDevice</key>
+<string>My Devices</string>
+</item>
+<item>
+<version>1</version>
+<key>historyData</key>
+<string>History</string>
+</item>
+<item>
+<version>1</version>
+<key>date</key>
+<string>Date</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarMain</key>
+<string>Home</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarMembers</key>
+<string>Family</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarAddUser</key>
+<string>New User</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarDevices</key>
+<string>My Devices</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarAddDevice</key>
+<string>New Device</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarSensitivity</key>
+<string>Sensitivity</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarUnits</key>
+<string>Unit Switch</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarHealth</key>
+<string>Apple Health</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarSetting</key>
+<string>Settings</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarFeedback</key>
+<string>Feedback</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarPrivacy</key>
+<string>Privacy</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarHelp</key>
+<string>Help</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarVersion</key>
+<string>Version</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarAboutus</key>
+<string>About</string>
+</item>
+<item>
+<version>1</version>
+<key>tabBarHome</key>
+<string>Home</string>
+</item>
+<item>
+<version>1</version>
+<key>tabBarReport</key>
+<string>Report</string>
+</item>
+<item>
+<version>1</version>
+<key>tabBarCurve</key>
+<string>Trend</string>
+</item>
+<item>
+<version>1</version>
+<key>tabBarHistory</key>
+<string>History</string>
+</item>
+<item>
+<version>1</version>
+<key>weight</key>
+<string>Weight</string>
+</item>
+<item>
+<version>1</version>
+<key>targetBodyMass</key>
+<string>Target Weight</string>
+</item>
+<item>
+<version>1</version>
+<key>superFatCurve</key>
+<string>Trend Summary</string>
+</item>
+<item>
+<version>1</version>
+<key>curveEdit</key>
+<string>Show in Summary</string>
+</item>
+<item>
+<version>1</version>
+<key>currentSensitivity</key>
+<string>Current Sensitivity</string>
+</item>
+<item>
+<version>1</version>
+<key>subject</key>
+<string>Subject</string>
+</item>
+<item>
+<version>1</version>
+<key>post</key>
+<string>Submit</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseInputSubject</key>
+<string>Subject</string>
+</item>
+<item>
+<version>1</version>
+<key>kg</key>
+<string>Kilogram</string>
+</item>
+<item>
+<version>1</version>
+<key>lb</key>
+<string>Pound</string>
+</item>
+<item>
+<version>1</version>
+<key>st</key>
+<string>Stone</string>
+</item>
+<item>
+<version>1</version>
+<key>cm</key>
+<string>Centimeter</string>
+</item>
+<item>
+<version>1</version>
+<key>in</key>
+<string>Inches</string>
+</item>
+<item>
+<version>1</version>
+<key>me</key>
+<string>Me</string>
+</item>
+<item>
+<version>1</version>
+<key>userNO</key>
+<string>User Number</string>
+</item>
+<item>
+<version>1</version>
+<key>sync</key>
+<string>Sync Data</string>
+</item>
+<item>
+<version>1</version>
+<key>unConfirmData</key>
+<string>Data Allocation</string>
+</item>
+<item>
+<version>1</version>
+<key>dailyAvg</key>
+<string>Daily Average:</string>
+</item>
+<item>
+<version>1</version>
+<key>healthKitName</key>
+<string>Apple Health</string>
+</item>
+<item>
+<version>1</version>
+<key>healthKit</key>
+<string>”SenssunHealth” would like to access and update your health data to and from Apple Health. 
+To adjust which data HealthKit and SenssunHealth share with each other, open the Health APP on your smartphone, and select the source of SenssunHealth to enable and disable sharing permissions.</string>
+</item>
+<item>
+<version>1</version>
+<key>companyName</key>
+<string>Guangdong Senssun Weighing Apparatus Group Ltd.</string>
+</item>
+<item>
+<version>1</version>
+<key>companyAddress</key>
+<string>Baishawan Industrial Park, Qiwan Road, East District, Zhongshan, Guangdong, China</string>
+</item>
+<item>
+<version>1</version>
+<key>companyTel</key>
+<string>Tel: 400-8211;888-8211;8845</string>
+</item>
+<item>
+<version>1</version>
+<key>versionCheck</key>
+<string>New Version</string>
+</item>
+<item>
+<version>1</version>
+<key>versionNew</key>
+<string>New version: %@ is available to be updated!</string>
+</item>
+<item>
+<version>1</version>
+<key>Message 提示语字段</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>welcome</key>
+<string>Enjoy your measuring</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseKeepDeviceON</key>
+<string>Turn on the scale</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseSelectDevice</key>
+<string>Please Select Device</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseWeighting</key>
+<string>Please step on scale</string>
+</item>
+<item>
+<version>1</version>
+<key>bindingSucc</key>
+<string>Successfully connected</string>
+</item>
+<item>
+<version>1</version>
+<key>ifUnbindDevice</key>
+<string>Disconnect the linking?</string>
+</item>
+<item>
+<version>1</version>
+<key>unbindSucc</key>
+<string>Successfully disconnected</string>
+</item>
+<item>
+<version>1</version>
+<key>ifDeleteUser</key>
+<string>Delete the user?</string>
+</item>
+<item>
+<version>1</version>
+<key>saveWarning</key>
+<string>Please fill out all the personal profile information which will ensure your measurement results</string>
+</item>
+<item>
+<version>1</version>
+<key>saveSucc</key>
+<string>Created profile</string>
+</item>
+<item>
+<version>1</version>
+<key>saveData</key>
+<string>Recorded data</string>
+</item>
+<item>
+<version>1</version>
+<key>postSucc</key>
+<string>Successfully submitted</string>
+</item>
+<item>
+<version>1</version>
+<key>postFail</key>
+<string>Fail to submit</string>
+</item>
+<item>
+<version>1</version>
+<key>noNetwork</key>
+<string>Please check the internet connection</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseInputContent</key>
+<string>Describe the issue you encounter</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseSelectUser</key>
+<string>Please select user</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseSelectDeviceUser</key>
+<string>Select the user numbers</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseSyncUser</key>
+<string>Sync data before done</string>
+</item>
+<item>
+<version>1</version>
+<key>settingUserID</key>
+<string>Data Syncing…</string>
+</item>
+<item>
+<version>1</version>
+<key>syncData</key>
+<string>Data Syncing...</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseSelectUnit</key>
+<string>Select the unit</string>
+</item>
+<item>
+<version>1</version>
+<key>testFatErrorLow</key>
+<string>Fat test error, low fat</string>
+</item>
+<item>
+<version>1</version>
+<key>testFatErrorHigh</key>
+<string>Fat test error, high fat</string>
+</item>
+<item>
+<version>1</version>
+<key>Body Scale 人体秤字段</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>scaleBody</key>
+<string>Body Scale</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRangeSlim</key>
+<string>Underweight</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRangeNormal</key>
+<string>Normal</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRangeHeavy</key>
+<string>Overweight</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRangeObese</key>
+<string>Obese</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRange1</key>
+<string>If you need to lose weight, it’s important to do so slowly. Lose no more than 1/2 pound to 2 pounds a week.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRange2</key>
+<string>You are in good physical condition, keep doing it and never give up.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRange3</key>
+<string>BMI and waist circumference are used to determine if someone is overweight or obese.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRange4</key>
+<string>Overweight and obesity are also risk factors for heart disease.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiRange5</key>
+<string>Being overweight or obese increases your risk of developing high blood pressure.</string>
+</item>
+<item>
+<version>1</version>
+<key>reachTarget</key>
+<string>Congratulation! You’ve achieved your target! Keep it up, don’t release!</string>
+</item>
+<item>
+<version>1</version>
+<key>unreachTarget</key>
+<string>Come on! Your target weight is %@, %@ to make your first step.</string>
+</item>
+<item>
+<version>1</version>
+<key>overTarget</key>
+<string>Your target weight is %@, %@ need to be reduced, work it out, don’t hesitate.</string>
+</item>
+<item>
+<version>1</version>
+<key>noReport</key>
+<string>No Report</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiFigure</key>
+<string>● Figure</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiGuide</key>
+<string>● BMI</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiReport1</key>
+<string>A little thin. Pay attention to nutrition intake and do some exercise. Please arrange exercise and diet reasonably according to the analysis.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiReport2</key>
+<string>Nice figure! Keep going! Please arrange exercise and diet reasonably according to your measurement result.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiReport3</key>
+<string>There’s no magic formula for weight loss. You have to eat fewer calories than you use up in daily activities.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiDesc</key>
+<string>BMI [Body Mass Index] is one simple and common way of those what used to measure adult weight level by the comparison of weight and height. The outcome equals weight (kg) divided by height (m) square. The best result is 22.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiAttach</key>
+<string>Appendix: BMI reference chart of WHO</string>
+</item>
+<item>
+<version>1</version>
+<key>analysis</key>
+<string>Analysis</string>
+</item>
+<item>
+<version>1</version>
+<key>measurementTimes</key>
+<string>Count (Times/Days)：%d/%d</string>
+</item>
+<item>
+<version>1</version>
+<key>max</key>
+<string>Max</string>
+</item>
+<item>
+<version>1</version>
+<key>min</key>
+<string>Min</string>
+</item>
+<item>
+<version>1</version>
+<key>compare</key>
+<string>Comparison</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyMassCurve</key>
+<string>Weight</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiCurve</key>
+<string>BMI</string>
+</item>
+<item>
+<version>1</version>
+<key>Body Fat Scale 脂肪秤字段</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>scaleFat</key>
+<string>Body Fat Scale</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyMass</key>
+<string>Weight</string>
+</item>
+<item>
+<version>1</version>
+<key>bmi</key>
+<string>BMI</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyFatPercentage</key>
+<string>Body Fat</string>
+</item>
+<item>
+<version>1</version>
+<key>bone</key>
+<string>Bone</string>
+</item>
+<item>
+<version>1</version>
+<key>hydro</key>
+<string>Hydration</string>
+</item>
+<item>
+<version>1</version>
+<key>muscle</key>
+<string>Muscle</string>
+</item>
+<item>
+<version>1</version>
+<key>kcal</key>
+<string>BMR</string>
+</item>
+<item>
+<version>1</version>
+<key>amr</key>
+<string>AMR</string>
+</item>
+<item>
+<version>1</version>
+<key>parameterLow</key>
+<string>Low</string>
+</item>
+<item>
+<version>1</version>
+<key>parameterNormal</key>
+<string>Normal</string>
+</item>
+<item>
+<version>1</version>
+<key>parameterHigh</key>
+<string>High</string>
+</item>
+<item>
+<version>1</version>
+<key>parameterVeryHigh</key>
+<string>Very High</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyFatRange1</key>
+<string>Thin</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyFatRange2</key>
+<string>Underweight</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyFatRange3</key>
+<string>Normal</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyFatRange4</key>
+<string>Overweight</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyFatRange5</key>
+<string>Obese</string>
+</item>
+<item>
+<version>1</version>
+<key>reportAnalysis</key>
+<string>Evaluation</string>
+</item>
+<item>
+<version>1</version>
+<key>reportHelp</key>
+<string>Body Analysis Report</string>
+</item>
+<item>
+<version>1</version>
+<key>baseInfo</key>
+<string>Basic Information</string>
+</item>
+<item>
+<version>1</version>
+<key>baseReport</key>
+<string>Preliminary Assessment</string>
+</item>
+<item>
+<version>1</version>
+<key>testDate</key>
+<string>Date: %@</string>
+</item>
+<item>
+<version>1</version>
+<key>age</key>
+<string>Age</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyAgeTitle</key>
+<string>Body Age</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyAgeUnit</key>
+<string>Years old</string>
+</item>
+<item>
+<version>1</version>
+<key>component</key>
+<string>Composition</string>
+</item>
+<item>
+<version>1</version>
+<key>category</key>
+<string>Classification</string>
+</item>
+<item>
+<version>1</version>
+<key>result</key>
+<string>Result</string>
+</item>
+<item>
+<version>1</version>
+<key>guide</key>
+<string>Guide</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarExplain</key>
+<string>Explanations</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarBMI</key>
+<string>BMI</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarFat</key>
+<string>%Body Fat</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarHydro</key>
+<string>%Hydration</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarMuscle</key>
+<string>%Muscle</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarBone</key>
+<string>%Bone</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarBMR</key>
+<string>BMR</string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarAMR</key>
+<string>AMR</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiExplain1</key>
+<string>The body mass index (BMI) is a number that is often called upon to evaluate body weight. The figure is calculated from body weight and height. The formula is: BMI = body weight (kg) /  height² (m²). According to the BMI, weight is classified for adults (20 years and over) using the following values:</string>
+</item>
+<item>
+<version>1</version>
+<key>bmiExplain2</key>
+<string>bmiExplain2EN.png</string>
+</item>
+<item>
+<version>1</version>
+<key>fatExplain1</key>
+<string>The following body fat percentages are guide values (contact your doctor for further information).</string>
+</item>
+<item>
+<version>1</version>
+<key>fatExplain2</key>
+<string>fatExplain2EN.png</string>
+</item>
+<item>
+<version>1</version>
+<key>fatExplain3</key>
+<string>fatExplain3EN.png</string>
+</item>
+<item>
+<version>1</version>
+<key>fatExplain4</key>
+<string>A lower value is often found in athletes. Depending on the type of sports, training intensity and physical constitution, values may result which are below the recommended values stated. It should, however, be noted that there could be a danger to health in the case of extremely low values.</string>
+</item>
+<item>
+<version>1</version>
+<key>hydroExplain1</key>
+<string>The body water percentage is normally within the following ranges:</string>
+</item>
+<item>
+<version>1</version>
+<key>hydroExplain2</key>
+<string>hydroExplain2EN.png</string>
+</item>
+<item>
+<version>1</version>
+<key>hydroExplain3</key>
+<string>hydroExplain3EN.png</string>
+</item>
+<item>
+<version>1</version>
+<key>hydroExplain4</key>
+<string>Body fat contains relatively little water. Therefore persons with a high body fat percentage have body water percentages below the recommended values. With endurance athletes, however, the recommended values could be exceeded due to low fat percentages and high muscle percentage.
+This scale is unsuitable for measuring body water in order to draw medical conclusions concerning age-related water retention, for example. If necessary ask your doctor. Basically, a high body water percentage should be the aim.</string>
+</item>
+<item>
+<version>1</version>
+<key>muscleExplain1</key>
+<string>The muscle percentage is normally within the following ranges:</string>
+</item>
+<item>
+<version>1</version>
+<key>muscleExplain2</key>
+<string>muscleExplain2EN.png</string>
+</item>
+<item>
+<version>1</version>
+<key>muscleExplain3</key>
+<string>muscleExplain3EN.png</string>
+</item>
+<item>
+<version>1</version>
+<key>boneExplain1</key>
+<string>Like the rest of our body, our bones are subject to the natural development, degeneration and ageing processes. Bone mass increases rapidly in childhood and reaches its maximum between 30 and 40 years of age. Bone mass reduces slightly with increasing age. You can reduce this degeneration somewhat with healthy nutrition (particularly calcium and vitamin D) and regular exercise.
+With appropriate muscle building, you can also strengthen your bone structure. Note that this scale will not show you the calcium content of your bones, but will measure the weight of all bone constituents (organic substances, inorganic substances and water). Little influence can be exerted on bone mass, but it will vary slightly within the influencing factors (weight, height, age, gender). No recognized guidelines or recommendations relating to bone mass measurement.</string>
+</item>
+<item>
+<version>1</version>
+<key>bmrExplain1</key>
+<string>The basal metabolic rate (BMR) is the amount of energy (calories) required by the body at complete rest to maintain its basic functions (e.g. while lying in bed for 24 hours). This value largely depends on weight, height and age. It is displayed on the diagnostic scale in kcal/day units using the scientifically recognized Harris-Benedict formula. Your body requires this amount of energy (calories) in any case and it must be reintroduced into your body in the form of nutrition. If you take on less energy (calories) over the longer term, this can be harmful to your health.</string>
+</item>
+<item>
+<version>1</version>
+<key>amrExplain1</key>
+<string>The active metabolic rate (AMR) is the amount of energy (calories) required daily by the body in its active state. The energy (calories) consumption of a human being rises with increasing physical activity and is measured on the diagnostic scale in relation to the degree of activity entered.
+To maintain your existing weight, the amount of energy (calories) used must be reintroduced into the body in the form of food and drink. If less energy (calories) is introduced than is used over a longer period of time, your body will obtain the difference largely from the amount of fat stored and your weight will decrease. If, on the other hand, over a longer period of time more energy (calories) is introduced than the total active metabolic rate (AMR) calculated, your body will be unable to burn off the excess energy, and the excess will be stored in the body as fat and your weight will increase.</string>
+</item>
+<item>
+<version>1</version>
+<key>Heart Rate Scale 心率脂肪秤</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>scaleHeart</key>
+<string>HeartRate Scale</string>
+</item>
+<item>
+<version>1</version>
+<key>heartRate</key>
+<string>Heart Rate</string>
+</item>
+<item>
+<version>1</version>
+<key>startTest</key>
+<string>Start</string>
+</item>
+<item>
+<version>1</version>
+<key>stopTest</key>
+<string>Stop</string>
+</item>
+<item>
+<version>1</version>
+<key>Body Fat Scale Pro 八电极脂肪秤字段</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>scaleSuperFat</key>
+<string>Body Monitor</string>
+</item>
+<item>
+<version>1</version>
+<key>sBodyMass</key>
+<string>Weight</string>
+</item>
+<item>
+<version>1</version>
+<key>sBodyFatPercentage</key>
+<string>Body Fat</string>
+</item>
+<item>
+<version>1</version>
+<key>sHydro</key>
+<string>Hydration</string>
+</item>
+<item>
+<version>1</version>
+<key>sMuscle</key>
+<string>Muscle</string>
+</item>
+<item>
+<version>1</version>
+<key>sBone</key>
+<string>Bone</string>
+</item>
+<item>
+<version>1</version>
+<key>sProtein</key>
+<string>Protein</string>
+</item>
+<item>
+<version>1</version>
+<key>sKcal</key>
+<string>BMR</string>
+</item>
+<item>
+<version>1</version>
+<key>sLeanBodyMass</key>
+<string>LBM</string>
+</item>
+<item>
+<version>1</version>
+<key>sVisceralFat</key>
+<string>Visceral Fat</string>
+</item>
+<item>
+<version>1</version>
+<key>sBMI</key>
+<string>BMI</string>
+</item>
+<item>
+<version>1</version>
+<key>figure</key>
+<string>Figure</string>
+</item>
+<item>
+<version>1</version>
+<key>synthesize</key>
+<string>Comprehensive Assessment</string>
+</item>
+<item>
+<version>1</version>
+<key>healthScoreTitle</key>
+<string>Health Score</string>
+</item>
+<item>
+<version>1</version>
+<key>healthScoreUnit</key>
+<string>Score</string>
+</item>
+<item>
+<version>1</version>
+<key>healthScoreRange1</key>
+<string>You are in good condition, and pay attention to some noticeable indicators, our analysis result will give you some clues to be healthier.</string>
+</item>
+<item>
+<version>1</version>
+<key>healthScoreRange2</key>
+<string>Sub-health warning, you should focus on some changes of your physical condition and see your doctor if necessary.</string>
+</item>
+<item>
+<version>1</version>
+<key>figure1</key>
+<string>Thin</string>
+</item>
+<item>
+<version>1</version>
+<key>figure2</key>
+<string>Slim</string>
+</item>
+<item>
+<version>1</version>
+<key>figure3</key>
+<string>Athletic</string>
+</item>
+<item>
+<version>1</version>
+<key>figure4</key>
+<string>Lean</string>
+</item>
+<item>
+<version>1</version>
+<key>figure5</key>
+<string>Balanced</string>
+</item>
+<item>
+<version>1</version>
+<key>figure6</key>
+<string>Strong</string>
+</item>
+<item>
+<version>1</version>
+<key>figure7</key>
+<string>Chubby</string>
+</item>
+<item>
+<version>1</version>
+<key>figure8</key>
+<string>Heavy</string>
+</item>
+<item>
+<version>1</version>
+<key>figure9</key>
+<string>Obese</string>
+</item>
+<item>
+<version>1</version>
+<key>synthesizeMessage</key>
+<string>Your weight is, your LBM is，</string>
+</item>
+<item>
+<version>1</version>
+<key>guideLow</key>
+<string>Low</string>
+</item>
+<item>
+<version>1</version>
+<key>guideNormal</key>
+<string>Normal</string>
+</item>
+<item>
+<version>1</version>
+<key>guideHigh</key>
+<string>Hight</string>
+</item>
+<item>
+<version>1</version>
+<key>helpTitle1</key>
+<string>How to use our Bluetooth scale</string>
+</item>
+<item>
+<version>1</version>
+<key>helpDesc1</key>
+<string>A. Download and install 
+B. Launch and connect the scale as instruction, key in all your personal information  
+C. Step on the scale without wearing socks. 
+D. Measurements pop up, see the health report.  
+E. Check the tendency diagrams and review the history  F. Add your family members to share the enjoy of measuring</string>
+</item>
+<item>
+<version>1</version>
+<key>helpTitle2</key>
+<string>About users auto-recognition</string>
+</item>
+<item>
+<version>1</version>
+<key>helpDesc2</key>
+<string>Auto-recognition can know who you are and allot the correct data to corresponding family members. If the weight of two members are so closed within 2 kg，you have to choose the right one to collect the corresponding measurements.</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReport</key>
+<string>Analysis</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportTitle1</key>
+<string>What are those mainly body compositions？</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportDesc1</key>
+<string>Water, protein, fat and inorganic salt (herein after refer to Bone) are the fundamental to human body composition. To be more specific, water can be classified to extracellular fluid and intracellular fluid. Protein and water build up muscle together, which is along with the bone to be the weight basis as LBM (Less Body Mass). LBM pluses fat to some extent is the total weight of human body. As a conclusion, Water + Protein = Muscle, Muscle + Bone = LBM, LBM + Fat = Total Weight.</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportTitle2</key>
+<string>Why do we have to take the body analysis?</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportDesc2</key>
+<string>To keep proper proportion and stability of body compositions is one of those crucial factors to our health. Too much more or less than usual is sometime a sign or pre-symptom to disease. Continuously imbalanced body compositions would bring you health into risk, especially leading to cardiopathy, diabetes, metabolic disturbance, etc. Thus we have to focus on it and take this kind of measurement periodically for convenient and easy way to monitor our health every day.  Diseases are highly relevant to body composition: obesity, dyslipidemia, malnutrition, osteoporosis, renal disease, edema, metabolic disease, cardia-cerebrovascular disease, cancer, etc.</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportTitle3</key>
+<string>How to take a fast judgment to my body composition, good or bad?</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportDesc3</key>
+<string>The easiest way to get the conclusion is from the “Figure” of 9 types. Moreover, you can see all measurements whether they are in normal range, especially the visceral fat index. “Health Score” is the comprehensive result to show your health condition. It is healthy with the score of 80 or above, or not well with the score of 75 or below.</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportTitle4</key>
+<string>How do we know whether we are obese or to what extent?</string>
+</item>
+<item>
+<version>1</version>
+<key>analysisReportDesc4</key>
+<string>Weight is not that determinative to tell exact physical condition of ourselves. “Figures” can do it well and give you a better judgment, such as: obese, heavy, chubby, etc.  Body fat index is a general index to evaluate fat or thin, as heavy would lead to fat or strong body condition.</string>
+</item>
+<item>
+<version>1</version>
+<key>healthScoreDesc</key>
+<string>You can see every measurement with their proper range for reference in the health report. Meanwhile, “Health Score” is the comprehensive result to show your health condition. It is healthy with the score of 80 or above, or not well enough with the score of 75 or below.</string>
+</item>
+<item>
+<version>1</version>
+<key>bodyAgeDesc</key>
+<string>It is an evaluation to your physical condition according to your results of every measurement, telling you your health age versus biological age.</string>
+</item>
+<item>
+<version>1</version>
+<key>To be deleted 可删除字段</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>fatRange1</key>
+<string>Body fat percentage is little bit low.</string>
+</item>
+<item>
+<version>1</version>
+<key>fatRange2</key>
+<string>Body fat percentage is in the healthy range.</string>
+</item>
+<item>
+<version>1</version>
+<key>fatRange3</key>
+<string>Body fat percentage is little bit high.</string>
+</item>
+<item>
+<version>1</version>
+<key>hydroRange1</key>
+<string>Body hydration is little bit low.</string>
+</item>
+<item>
+<version>1</version>
+<key>hydroRange2</key>
+<string>Body hydration is in the healthy range.</string>
+</item>
+<item>
+<version>1</version>
+<key>hydroRange3</key>
+<string>Body hydration is little bit high.</string>
+</item>
+<item>
+<version>1</version>
+<key>boneRange1</key>
+<string>Please pay attention to the low bone mass.</string>
+</item>
+<item>
+<version>1</version>
+<key>boneRange2</key>
+<string>Bone mass is in normal range, keep it for healthy life.</string>
+</item>
+<item>
+<version>1</version>
+<key>boneRange3</key>
+<string>Please pay attention to the high bone mass.</string>
+</item>
+<item>
+<version>1</version>
+<key>muscleRange1</key>
+<string>Please pay attention to the low muscle percentage.</string>
+</item>
+<item>
+<version>1</version>
+<key>muscleRange2</key>
+<string>Muscle percentage is in normal range, keep it for healthy life.</string>
+</item>
+<item>
+<version>1</version>
+<key>muscleRange3</key>
+<string>Please pay attention to the high muscle percentage.</string>
+</item>
+<item>
+<version>1</version>
+<key>proteinRange1</key>
+<string>Please pay attention to the low protein factor.</string>
+</item>
+<item>
+<version>1</version>
+<key>proteinRange2</key>
+<string>Protein factor is in normal range, keep it for healthy life.</string>
+</item>
+<item>
+<version>1</version>
+<key>proteinRange3</key>
+<string>Please pay attention to the high protein factor.</string>
+</item>
+<item>
+<version>1</version>
+<key>leanBodyMassRange1</key>
+<string>Please pay attention to the low LBM.</string>
+</item>
+<item>
+<version>1</version>
+<key>leanBodyMassRange2</key>
+<string>LBM is in normal range, keep it for healthy life.</string>
+</item>
+<item>
+<version>1</version>
+<key>leanBodyMassRange3</key>
+<string>Please pay attention to the high LBM.</string>
+</item>
+<item>
+<version>1</version>
+<key>No Function 内销字段（可删除/或屏蔽）</key>
+<string></string>
+</item>
+<item>
+<version>1</version>
+<key>sideBarWelcome</key>
+<string>Welcome</string>
+</item>
+<item>
+<version>1</version>
+<key>pleaseInputDeviceName</key>
+<string>Rename your scale</string>
+</item>
+<item>
+<version>1</version>
+<key>deviceName</key>
+<string>Name</string>
+</item>
+<item>
+<version>1</version>
+<key>gravida</key>
+<string>Pregnant</string>
+</item>
+<item>
+<version>1</version>
+<key>baby</key>
+<string>Infant</string>
+</item>
+</root>
